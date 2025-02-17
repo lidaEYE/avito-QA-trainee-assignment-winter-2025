@@ -10,11 +10,10 @@
 │   └── BUGS_FROM_SCREENSHOT.md  - файл с описанием найденных багов
 │
 ├── Task2 - папка 2 задания
-│   ├── 
+│   ├── BUGS.md                  - отчет по багам
 │   ├── TESTCASES.md             - выполненные тест кейсы
-│   └── 
-├── 
-├── requirements.txt
+│   └── test_avito.py            - автоматизированные кейсы
+├── requirements.txt             - зависимости
 └── README.md
 ```
 
