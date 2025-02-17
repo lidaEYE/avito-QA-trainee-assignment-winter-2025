@@ -11,7 +11,7 @@
 │
 ├── Task2 - папка 2 задания
 │   ├── 
-│   ├── TESTCASES.md
+│   ├── TESTCASES.md             - выполненные тест кейсы
 │   └── 
 ├── 
 ├── requirements.txt
@@ -21,6 +21,10 @@
 ### Задание 1. Поиск багов
 Полное решение задания расположено в файле [BUGS_FROM_SCREENSHOT.md](Task1/BUGS_FROM_SCREENSHOT.md)
 
+### Задание 2.1
+* Тест-кейсы оформлены в файле [TESTCASES.md](Task2/TESTCASES.md)
+* Баг-репорт оформлен в файле [BUGS.md](Task2/BUGS.md)
+* Автоматизацию тест-кейсов пыталась выполнить в файле [test_avito.py](Task2/auto_tests/test_avito.py)....
 
 
 
